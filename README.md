@@ -12,7 +12,7 @@
 * Compatible with Magento 2 Custom Redirect Pro Extension.
 * Essential Module for B2B/B2C, private sale, member only, invite only stores.
 
-### 2. Customer Registration
+### 2. Disable Registration
 * Provides option to disable the customer registration (with an optional custom message).
 * Includes Magento 2 Customer Group Selector / Switcher extension for FREE, which allows customer group selection/automatic group switching from the registration page.
 
