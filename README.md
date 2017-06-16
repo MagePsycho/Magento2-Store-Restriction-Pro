@@ -1,3 +1,5 @@
+# Magento 2 Store Restriction Pro
+
 ## Overview:
 [Magento 2 Store Restriction Pro](http://www.magepsycho.com/magento-2-store-restriction-pro.html) provides you the complete functionality for restricting your store in many ways (disabling registration, restricting access to only logged-in customer of certain groups while allowing guest access to certain pages)
 
