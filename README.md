@@ -1,7 +1,5 @@
-# Magento 2 Store Restriction Pro
-
 ## Overview:
-[Magento 2 Store Restriction Pro](http://www.magepsycho.com/magento-2-store-restriction-pro.html) provides you the complete functionality for restricting your store in many ways (disabling registration, restricting access to only logged-in customer of certain groups while allowing guest access to certain pages)
+Magento 2 Store Restriction Pro provides you the complete functionality for restricting your store in many ways (disabling registration, restricting access to only logged-in customer of certain groups while allowing guest access to certain pages)
 
 ![Magento 2 Store Restriction Backend Demo](http://g.recordit.co/SR1aTD7d0l.gif)
 
@@ -14,7 +12,7 @@
 * Compatible with Magento 2 Custom Redirect Pro Extension.
 * Essential Module for B2B/B2C, private sale, member only, invite only stores.
 
-### 2. Disable Registration
+### 2. Customer Registration
 * Provides option to disable the customer registration (with an optional custom message).
 * Includes Magento 2 Customer Group Selector / Switcher extension for FREE, which allows customer group selection/automatic group switching from the registration page.
 
@@ -46,6 +44,11 @@ Provides Store Restriction of two types
 * [View Backend Demo](http://m2-store-restriction-pro.mage-expo.com/admin_m2demo)
 
 ## Changelog
+**Version 1.0.2 (2019-05-23)**
+- Fixed redirection issue from homepage
+- Fixed registration disabled case
+- Compatibility tested with Magento v2.3.x
+
 **Version 1.0.0 (2017-06-12)**
     
-* Initial Release.
+- Initial Release.
