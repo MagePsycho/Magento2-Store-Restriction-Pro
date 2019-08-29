@@ -52,3 +52,57 @@ Provides Store Restriction of two types
 **Version 1.0.0 (2017-06-12)**
     
 - Initial Release.
+
+### People also search:
+
+- magento 2 restriction
+- magento 2 restriction module
+- magento 2 restriction extension
+- magento 2 restriction extension free
+- magento 2 customer restriction
+- magento 2 customer group restriction
+- magento 2 restrict by customer group
+- magento 2 cms restriction
+- magento 2 page restriction
+- magento 2 product restriction
+- magento 2 category restriction
+- magento 2 restrict category access
+- magento 2 website restriction
+- magento 2 cart restriction
+- magento 2 shipping restriction
+- magento 2 shipment restriction
+- magento 2 payment restriction
+- magento 2 restrict shipping method
+- magento 2 restrict payment method
+- magento 2 restrict cash on delivery
+- magento 2 restrict zip codes
+- magento 2 require customer approval
+- magento 2 customer activation
+- magento 2 b2c extension
+- magento 2 b2b extension
+- magento 2 b2b extension free
+- magento 2 wholesale extension
+- magento 2 call for price
+- magento 2 hide price
+- magento 2 hide product price
+- magento 2 hide product price extension
+- magento 2 hide product price extension free
+- magento 2 hide add to cart
+- magento 2 hide add to cart button
+- magento 2 disable add to cart
+- magento 2 disable add to cart button
+- magento 2 customer group select
+- magento 2 customer group switch
+- magento 2 restricted access
+- magento 2 login only store
+
+
+### Other FREE Magento 2 Extensions on GitHub
+
+- [Custom Shipping Module for Magento 2](https://github.com/MagePsycho/magento2-custom-shipping)
+- [Magento 2 Easy Template Path Hints](https://github.com/MagePsycho/magento2-easy-template-path-hints)
+- [Magento 2 Storefront Links Manager](https://github.com/MagePsycho/magento2-storefront-links-manager)
+- [Magento 2 Custom Customer Address Attribute](https://github.com/MagePsycho/magento2-custom-customer-address-attribute)
+- [Magento 2 Starter Theme](https://github.com/MagePsycho/magento2-starter-theme)
+- [Magento 2 Bash Script Installer](https://github.com/MagePsycho/magento2-installer-bash-script)
+- [Bash Script: Backup Magento2 Code + Database](https://github.com/MagePsycho/magento2-db-code-backup-bash-script)
