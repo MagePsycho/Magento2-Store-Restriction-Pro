@@ -1,7 +1,7 @@
 ## Overview:
-Magento 2 Store Restriction Pro provides you the complete functionality for restricting your store in many ways (disabling registration, restricting access to only logged-in customer of certain groups while allowing guest access to certain pages)
+Magento 2 Store Restriction Pro extension provides the complete restriction functionality for your store in many ways (disabling registration, requiring customer approval, restricting access to special customers while allowing guess access to certain pages)
 
-![Magento 2 Store Restriction Backend Demo](http://g.recordit.co/SR1aTD7d0l.gif)
+![Magento 2 Store Restriction Backend Demo](http://g.recordit.co/Xr3dYtofnH.gif)
 
 ## Features:
 ### 1. General
@@ -15,8 +15,28 @@ Magento 2 Store Restriction Pro provides you the complete functionality for rest
 ### 2. Customer Registration
 * Provides option to disable the customer registration (with an optional custom message).
 * Includes Magento 2 Customer Group Selector / Switcher extension for FREE, which allows customer group selection/automatic group switching from the registration page.
+![Magento 2 Store Restriction Customer Registration](https://www.magepsycho.com/media/catalog/product/3/-/3-m2-backend-registration-settings-disabled.png)
 
-### 3. Store Restriction
+### 3. Customer Activation/Approval
+This feature gives the store owner the ability to approve or reject the new customer account.  
+Since it requires the pre-verification of every new customer, it becomes one of the essentials modules for B2B & B2C.  
+
+Some of the key features:
+* Option to enable/disable the customer approval feature
+* Configurable customer groups that require admin approval
+* Option to auto-approve new customer registration
+* Easier approval management for the admin
+* Notify admin on new customer registration (with configurable email template)
+* Notify customer on his/her account approval or rejection (with configurable email template)
+* Configure message & redirection for the non-approved customer
+
+![Magento 2 Store Restriction - Require Customer Approval/Activation - General Setting](https://www.magepsycho.com/media/catalog/product/m/2/m2-srp-registration-settings-customer-approval-enabled-general.png)
+
+![Magento 2 Store Restriction - Require Customer Approval/Activation - Notification Setting](https://www.magepsycho.com/media/catalog/product/m/2/m2-srp-registration-settings-customer-approval-enabled-notification.png)
+
+![Magento 2 Store Restriction - Require Customer Approval/Activation - Admin Management](https://www.magepsycho.com/media/catalog/product/m/2/m2-srp-customer-approval-actions-customer-listing.png)
+
+### 4. Store Restriction
 
 Provides Store Restriction of two types
 1. Non-Restricted
@@ -28,6 +48,7 @@ Provides Store Restriction of two types
     * Provides option to allow certain CMS, Category, Product & custom module pages for guest users.
 1. Accessible (Only configured pages/sections restricted) - *coming soon*
     
+![Restriction Type: Restricted (Only configured pages accessible)](https://www.magepsycho.com/media/catalog/product/6/-/6-m2-backend-restriction-settings-restricted-accessible-general-2.png)
 
 ## Installation
 1. Download the extension .zip file and extract the files.
@@ -44,6 +65,16 @@ Provides Store Restriction of two types
 * [View Backend Demo](http://m2-store-restriction-pro.mage-expo.com/admin_m2demo)
 
 ## Changelog
+**Version v1.0.4 (2020-04-11)**
+- Added Added customer activation/approval feature
+- Changed Refactored the code
+- Added Tested the compatibility with Magento v2.3.4
+
+**Version v1.0.3 (2019-11-12)**
+- Refactored the code
+- Changed Fixed the system configuration tab issue
+- Added Tested the compatibility with Magento v2.3.3
+
 **Version 1.0.2 (2019-05-23)**
 - Fixed redirection issue from homepage
 - Fixed registration disabled case
@@ -78,6 +109,7 @@ Provides Store Restriction of two types
 - magento 2 restrict zip codes
 - magento 2 require customer approval
 - magento 2 customer activation
+- magento 2 approve customer
 - magento 2 b2c extension
 - magento 2 b2b extension
 - magento 2 b2b extension free
