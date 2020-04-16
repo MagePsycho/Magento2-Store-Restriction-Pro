@@ -65,6 +65,9 @@ Provides Store Restriction of two types
 * [View Backend Demo](http://m2-store-restriction-pro.mage-expo.com/admin_m2demo)
 
 ## Changelog
+**Version v1.0.5 (2020-04-15)**
+- Fixed the /customer/account/createPassword bug
+
 **Version v1.0.4 (2020-04-11)**
 - Added Added customer activation/approval feature
 - Changed Refactored the code
@@ -127,6 +130,7 @@ Provides Store Restriction of two types
 - magento 2 customer group switch
 - magento 2 restricted access
 - magento 2 login only store
+- magento 2 force login
 
 
 ### Other FREE Magento 2 Extensions on GitHub
