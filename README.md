@@ -28,7 +28,7 @@ Some of the key features:
 * Easier approval management for the admin
 * Notify admin on new customer registration (with configurable email template)
 * Notify customer on his/her account approval or rejection (with configurable email template)
-* Configure message & redirection for the non-approved customer
+* Configurable message (html tags supported) & redirection for the non-approved customer
 
 ![Magento 2 Store Restriction - Require Customer Approval/Activation - General Setting](https://www.magepsycho.com/media/catalog/product/m/2/m2-srp-registration-settings-customer-approval-enabled-general.png)
 
@@ -44,7 +44,7 @@ Provides Store Restriction of two types
 1. Restricted (Only configured pages accessible)
     * The store is restricted, requires login to be accessible.
     * Provides option to select which customer group(s) can access the restricted store.
-    * Provides option to redirect the not allowed user to the custom page(Login, CMS or any custom page) with configured message.
+    * Provides option to redirect the not allowed user to the custom page(Login, CMS or any custom page) with configured message (html tags supported).
     * Provides option to allow certain CMS, Category, Product & custom module pages for guest users.
 1. Accessible (Only configured pages/sections restricted) - *coming soon*
     
@@ -65,6 +65,9 @@ Provides Store Restriction of two types
 * [View Backend Demo](http://m2-store-restriction-pro.mage-expo.com/admin_m2demo)
 
 ## Changelog
+**Version v1.0.6 (2020-04-24)**
+- Added html tag support in custom messages
+
 **Version v1.0.5 (2020-04-15)**
 - Fixed the /customer/account/createPassword bug
 
